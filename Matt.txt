@@ -9,3 +9,6 @@ scanf ("%d",&b);
 c = a+b; 
 printf ("The Sum of %d and %d = %d",a,b,c); 
 getch();}
+
+
+Write the output also.....OK
